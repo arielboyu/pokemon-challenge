@@ -1,24 +1,7 @@
-# pokedex-challenge
 
-## Project setup
-```
-npm install
-```
+Se completó el challenge teniendo en cuenta las funcionalidades requeridas , en la pantalla pincipal veremos el mapeo de pokemons , con un pagindo de a 12 cards por page, también contemplamos en manejo de error en caso que no se encuentre el pokemon en detalle o no responda el servidor , en la pantalla detalle veremos la info de descripcion y movimientos del pokemon
+Se utilizó la libreria de elements para las cards.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Pokemon Challenge
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
